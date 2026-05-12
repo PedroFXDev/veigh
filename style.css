@@ -768,13 +768,19 @@ body {
     .cards-vertical-grid {
         grid-template-columns: 1fr;
         gap: 1rem;
-        max-width: 320px;
+        max-width: 360px;
         margin: 0 auto;
     }
 
     /* Imagem do card menor no celular */
     .spotify-image-container {
-        max-height: 200px;
+        max-height: 180px;
+        overflow: hidden;
+    }
+
+    .spotify-image {
+        object-fit: cover;
+        object-position: top center;
     }
 
     /* Featured card sem transform no mobile */
