@@ -1,0 +1,30 @@
+[
+    {
+        "date": "20 Nov 2026",
+        "city": "São Paulo, SP",
+        "venue": "Allianz Parque - Festival CENA",
+        "status": "available",
+        "ticket_url": "#"
+    },
+    {
+        "date": "28 Nov 2026",
+        "city": "Rio de Janeiro, RJ",
+        "venue": "Jeunesse Arena",
+        "status": "available",
+        "ticket_url": "#"
+    },
+    {
+        "date": "05 Dez 2026",
+        "city": "Belo Horizonte, MG",
+        "venue": "Esplanada do Mineirão",
+        "status": "sold_out",
+        "ticket_url": "#"
+    },
+    {
+        "date": "12 Dez 2026",
+        "city": "Curitiba, PR",
+        "venue": "Pedreira Paulo Leminski",
+        "status": "available",
+        "ticket_url": "#"
+    }
+]
